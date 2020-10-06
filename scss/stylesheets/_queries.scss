@@ -1,0 +1,32 @@
+@media only screen and (max-width: 768px) {
+	.texto__about{
+		text-align: center;
+	}
+	.navbar-default .navbar-nav > li {
+    border-bottom: 1px solid #ddd;
+  }
+  
+    .navbar-default .navbar-nav > li > a {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) { 
+	.texto__about{
+		text-align: center;
+	}
+}
+
+
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
+	.texto__about{
+		text-align: right;
+	}
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1800px){
+	.texto__about{
+		text-align: right;
+	}
+}
+

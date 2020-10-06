@@ -1,0 +1,116 @@
+.section__categorias{
+	background-color: rgba(82,83,83,100);
+	color: $azul;
+	
+}
+
+
+.lista__enlace{
+	text-decoration: none;
+	color:$blanco;
+}
+.lista__enlace:hover{
+	color:$azul;
+	text-decoration: none;
+}
+
+.categorias__lista{
+	font-size:1.3em;
+	padding: 0.6em;
+}
+
+.categorias__titulo{
+	color:$blanco;
+	text-align: center;
+	font-size: $fontVisita;
+	padding-top:1.5em;
+	padding-bottom: 2em;
+	font-family: $familyRob;
+	margin-bottom: 1em;
+}
+
+
+
+.marcas__titulo{
+	text-align: center;
+	color:$grisHeader;
+	margin-top:2em;
+	margin-bottom: 2em;
+	font-size: $fontVisita;
+}
+
+.imagen__marcas{
+	background-color: rgba(82,83,83,100);
+	width: 200px;
+	height: 200px;
+
+}
+.imagen__marcas:hover{
+	filter: opacity(.3);
+
+}
+
+.marcas{
+	border-top: double 6px $grisHeader;
+	background-color: rgba(82,83,83,100);
+	padding-bottom: 4em;
+}
+
+.section__envios {
+	text-align: center;
+	font-size: $fontVisita;
+	font-family: $familyIMB;
+	color:$grisTexto;
+	margin-top: 2em;
+
+}
+
+.envios__imagen{
+	width: 150px;
+	height: 150px;
+	box-shadow: 0px 2px 13px 0px rgba(0,0,0,0.75);
+	border-radius: 200px 200px 200px 200px;
+	background-color: $verde;
+
+}
+
+.envios__info{
+	padding-top: 0.5em;
+	margin-bottom: 1.5em;
+}
+
+.imagen__categorias{
+	width: 150px;
+	height: 150px;
+}
+.section__categoriasDesk{
+	background-color: rgba(82,83,83,100);
+	color: $azul;
+	text-align: center;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+.categorias__imagen:hover{
+	background-color: $azul;
+}
+
+.calzado__ombu{
+	color:$blanco;
+	letter-spacing: 0.2em;
+	margin:1em 1em;
+}
+
+.categorias__ozono{
+	background-image: url("../img/seguridadDos.jpg");
+	background-size: cover;
+
+}
+
+.categorias__enlace{
+	color: #3B3C3C;	
+}
+
+.ozono__lista{
+	font-size: 1em;
+}

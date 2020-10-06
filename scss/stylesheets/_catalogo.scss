@@ -1,0 +1,51 @@
+.imagen__catalogo{
+	width: 200px;
+  	height: 200px;
+  	padding-top: 1em;
+}
+
+.visita__catalogo{
+	text-align: left;
+	font-size: 1.5em;
+	color:$grisTexto;
+  border-top:#EAEDED 1.5px solid;
+  font-family: $familyIMB;
+  margin-bottom: 1em;
+  padding-top: 1.5em;
+
+}
+
+.visita__catalogoTitulo{
+  border-top: #85C1E9 4px solid;
+  text-align: left;
+  font-family:$familyRob;
+  color: #566573;
+  border-bottom:$grisHeader 3px solid;
+}
+
+.productos__tituloOz{
+	text-align: center;
+  font-size:1.5em;
+  color:$grisTexto;	
+  font-family: $familyIMB;
+}
+
+.catalogo__ombu{
+  margin-bottom:3em;
+}
+
+.section__eshopPro{
+  background-color: $grisHeader;
+  text-align: center;
+  font-size: $fontVisita;
+  font-family: $familyIMB;
+  color:$grisTexto;
+  padding-top: 3em;
+}
+
+.header__infoOmbu{
+  margin-top:1.5em;
+  font-size:$fontHeader; 
+  text-align:left;
+  
+}
